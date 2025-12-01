@@ -1,0 +1,15 @@
+{
+  "name": "一生的聖召",
+  "short_name": "一生的聖召",
+  "start_url": "/the-call/",
+  "scope": "/the-call/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/the-call/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
